@@ -36,7 +36,7 @@ Atualmente, atuo como **Estagiário de TI na Cooperativa Montenegro**, com foco 
 ---
 
 ### 📫 Como me encontrar
+### 📫 Como me encontrar
 
 * **LinkedIn:** [Acesse meu perfil no LinkedIn](https://www.linkedin.com/in/gustavo-pereira-72ab26269)
-**E-mail:** [gp496004@gmail.com](mailto:gp496004@gmail.com)
-
+* **E-mail:** [gp496004@gmail.com](mailto:gp496004@gmail.com)
