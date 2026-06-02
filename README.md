@@ -40,8 +40,3 @@ Atualmente, atuo como **Estagiário de TI na Cooperativa Montenegro**, com foco 
 * **LinkedIn:** [Acesse meu perfil no LinkedIn](www.linkedin.com/in/gustavo-pereira-72ab26269)
 **E-mail:** [gp496004@gmail.com](mailto:gp496004@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavodev10&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gustavo" />
-</p>
