@@ -26,24 +26,17 @@ Graduando em **Ciência da Computação** no Centro Universitário Governador Oz
 
 ---
 
-### 🚀 Projetos em Destaque & Certificações
+### 🚀 Projetos em Destaque
 
-*   **[Santander Imersão Digital - Trilha Especialista em IA](https://www.alura.com.br/):** Especialização de 107 horas focada em soluções inteligentes aplicadas ao desenvolvimento de software.
+
 *   **[Projeto Integrador - Click de Respeito](https://gustavodev10.github.io/PROJETO-INTEGRADOR-INSTITUCIONAL-P2/):** Plataforma educativa focada na conscientização sobre Cyberbullying.
 *   **[PsiCodonto Learning](https://projeto-int-extensao1.netlify.app/):** Projeto acadêmico focado em gamificação para a área da saúde.
 *   **[MeusEstudosSQL](https://github.com/Gustavodev10/MeusEstudosSQL):** Repositório de referência para consultas complexas e governança em SQL Server.
 
----
 
-### 📈 Estatísticas de Código
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavodev10&show_icons=true&theme=radical&hide_border=true)
-
----
 
 ### 📫 Como me encontrar
 
 - 💼 **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/gustavo-pereira-72ab26269)
 - 📧 **E-mail:** [gp496004@gmail.com](mailto:gp496004@gmail.com)
-- 📍 **Localização:** Visconde do Rio Branco, Minas Gerais, Brasil.
 
----
